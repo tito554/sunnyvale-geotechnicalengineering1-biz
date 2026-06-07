@@ -1,6 +1,6 @@
 {
-  "name": "Sunnyvale",
-  "short_name": "Sunnyvale",
+  "name": "Geotechnicalengineering1",
+  "short_name": "Geotechnical",
   "start_url": "/",
   "display": "standalone",
   "theme_color": "#0A2540",
@@ -11,10 +11,5 @@
       "sizes": "any",
       "type": "image/svg+xml"
     }
-  ],
-  "lang": "en",
-  "orientation": "portrait",
-  "scope": "/",
-  "description": "Professional geotechnical services in Sunnyvale, USA. Soil studies, testing and technical consulting.",
-  "id": "/sunnyvale-3666"
+  ]
 }
